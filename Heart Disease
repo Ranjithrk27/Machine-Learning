@@ -1,1 +1,4 @@
 
+git rm Heart Disease
+git commit -m "remove Heart Disease
+"
